@@ -1,0 +1,187 @@
+{
+  "project_info": {
+    "project_number": "346157040007",
+    "firebase_url": "https://myappie-8ff27.firebaseio.com",
+    "project_id": "myappie-8ff27",
+    "storage_bucket": "myappie-8ff27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346157040007:android:2b01756ea620d553",
+        "android_client_info": {
+          "package_name": "com.example.renu.firebaseloginapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346157040007-5b9h4pr0308vr8kbc9772isvpred88rb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.renu.firebaseloginapp",
+            "certificate_hash": "5ba22c107c5451d40a3e76db52076dbaaf54166f"
+          }
+        },
+        {
+          "client_id": "346157040007-aehjtbogm9kui2fpeiblv1hn1t09vroe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPBICuGH3K2Z2xvi3gSD-jiaRTfR2D30k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "346157040007-aehjtbogm9kui2fpeiblv1hn1t09vroe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346157040007:android:597bd67c8ecfa4c1",
+        "android_client_info": {
+          "package_name": "com.example.renu.firegooglein"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346157040007-3g7hk7icqpi7d9t90jngqjkib3ebf3oj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.renu.firegooglein",
+            "certificate_hash": "5ba22c107c5451d40a3e76db52076dbaaf54166f"
+          }
+        },
+        {
+          "client_id": "346157040007-aehjtbogm9kui2fpeiblv1hn1t09vroe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPBICuGH3K2Z2xvi3gSD-jiaRTfR2D30k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "346157040007-aehjtbogm9kui2fpeiblv1hn1t09vroe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346157040007:android:283cac446825f6b0",
+        "android_client_info": {
+          "package_name": "com.example.renu.fireuserget"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346157040007-d7p51r2po5miqndfppplrquiod2hdvl5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.renu.fireuserget",
+            "certificate_hash": "5ba22c107c5451d40a3e76db52076dbaaf54166f"
+          }
+        },
+        {
+          "client_id": "346157040007-aehjtbogm9kui2fpeiblv1hn1t09vroe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPBICuGH3K2Z2xvi3gSD-jiaRTfR2D30k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "346157040007-aehjtbogm9kui2fpeiblv1hn1t09vroe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346157040007:android:da30ff66686ca322",
+        "android_client_info": {
+          "package_name": "com.example.renu.fireusersystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346157040007-vl13r2dchbgf4nu1bok10o40pcvoavm8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.renu.fireusersystem",
+            "certificate_hash": "5ba22c107c5451d40a3e76db52076dbaaf54166f"
+          }
+        },
+        {
+          "client_id": "346157040007-aehjtbogm9kui2fpeiblv1hn1t09vroe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPBICuGH3K2Z2xvi3gSD-jiaRTfR2D30k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "346157040007-aehjtbogm9kui2fpeiblv1hn1t09vroe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
